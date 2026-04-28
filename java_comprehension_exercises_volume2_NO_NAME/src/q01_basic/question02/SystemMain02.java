@@ -5,5 +5,20 @@ public class SystemMain02 {
 	public static void main(String[] args) {
 		//TODO ここから実装する
 
+		System.out.println("---SHOW DATA--- ");
+		Member member = new Member();
+
+		member.setName("Miura Manabu");
+		member.setAge(30);
+		member.setRank(1);
+
+		member.showMember();
+		member.rankUp();
+
+		System.out.println("\n>>>RANK UP>>> ");
+		System.out.println("---GET RANK---");
+		System.out.println("newRank:" + member.getRank());
+		;
+
 	}
 }
