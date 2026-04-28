@@ -9,7 +9,6 @@ public class MemberManager {
 
 		for (AbstMember am : members) {
 			am.showMember();
-
 		}
 
 	}

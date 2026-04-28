@@ -19,7 +19,6 @@ public class NonMember extends AbstMember {
 		System.out.println(name + "is a non-member");
 
 		System.out.println("*****************");
-
 	}
 
 }

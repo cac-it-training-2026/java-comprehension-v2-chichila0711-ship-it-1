@@ -12,7 +12,6 @@ public class Member extends AbstMember {
 	 */
 	//	引数なしコンストラクタ
 	public Member() {
-
 	}
 
 	/**

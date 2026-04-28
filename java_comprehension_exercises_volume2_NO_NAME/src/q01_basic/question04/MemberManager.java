@@ -13,6 +13,5 @@ class MemberManager {
 		for (Member m : member) {
 			m.showMember();
 		}
-
 	}
 }

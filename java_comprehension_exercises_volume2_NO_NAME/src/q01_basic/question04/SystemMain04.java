@@ -11,5 +11,4 @@ public class SystemMain04 {
 
 		MemberManager.showAllMembers(members);
 	}
-
 }
