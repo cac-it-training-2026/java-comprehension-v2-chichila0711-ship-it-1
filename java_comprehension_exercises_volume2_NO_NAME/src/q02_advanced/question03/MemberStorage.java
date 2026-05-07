@@ -30,7 +30,9 @@ class MemberStorage {
 	/**
 	 * @param members セットする members
 	 */
+
 	public void setMembers(List<Member> members) {
+
 		this.members = members;
 	}
 
